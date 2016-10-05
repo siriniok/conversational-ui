@@ -1,5 +1,7 @@
 # The Conversational UI Handbook
 
+[![Join the chat at https://gitter.im/conversational-ui/Lobby](https://badges.gitter.im/conversational-ui/Lobby.svg)](https://gitter.im/conversational-ui/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Bots are amazing and you can hear about them everywhere now. But what they really are? Just a funny toy or a powerfull tool for your business? Here is your guide into the Converstaional UI World. We collected the most important information and tried to answer the most important questions. The handbook is fully community driven.
 
 Feel free to share this content under [a CC license](https://creativecommons.org/licenses/by-sa/4.0/ "CC-BY-SA").
